@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ToLevel1
+  - ToLevelSelect
+  - ToLevel2
+  - ToLevel3
+  - ToTutorialRoom
+  - death
+  - LaserToLeft
+  - LaserToRight
+  - LaserToTop
+  - LaserToBottom
+  - no-portal-zone
+  - Waypoints-p1
+  - Waypoints-p2
+  - Waypoints-p3
+  - Waypoints-p4
+  - Text-test-tag
+  - Monstre
+  - chest
+  - pts-text
+  - granola-bars-text
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Props
+  - Floor
+  - Walls
+  - Monstre
+  - Lights
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 305383809
+    locked: 0
+  - name: Walls
+    uniqueID: 1361163621
+    locked: 0
+  - name: Props
+    uniqueID: 821611441
+    locked: 0
+  - name: Player
+    uniqueID: 2706725689
+    locked: 0

@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: blue-chest-open
+  m_Controller: {fileID: 9100000, guid: 05057f9e02cece74a8b3b026501016d0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 112a7cef4505f2841bb20ba492272f39, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: aa3f0da96b6d2ba419fbb0285ef0673b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 93f5e340f532f2a4cb61b3b741ae590d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5158c56c7c544d34d8c9327f2e8d327a, type: 2}

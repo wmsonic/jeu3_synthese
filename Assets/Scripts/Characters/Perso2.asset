@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 650ffac80f6a3f147acc9ec001d9a439, type: 3}
+  m_Name: Perso2
+  m_EditorClassIdentifier: 
+  perso: {fileID: 1718398862411378, guid: 802d6045f96d5724aa641a7611d5a666, type: 2}
+  character_name: Perso2
